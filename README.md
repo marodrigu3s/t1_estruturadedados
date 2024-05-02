@@ -1,0 +1,1 @@
+Esse projeto foi desenvolvido para a tarefa semestral da matéria de Algoritmos, Estrutura de Dados e Programação, no qual testamos os métodos de ordenação (ou o processador de alguma máquina) e verificamos o desempenho prático desses métodos.
